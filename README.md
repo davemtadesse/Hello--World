@@ -1,3 +1,3 @@
 # Hello--World
 First Project
-Started coding and I am adicted to it
+Started coding and I am addicted to it
